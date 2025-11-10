@@ -1,0 +1,7 @@
+strategy,task,accuracy,forgetting,training_time
+naive,1,7.5,0.0,0.0
+naive,2,12.0,0.0,0.0
+naive,3,12.833333333333334,0.0,0.0
+frozen_backbone,1,11.5,0.0,0.0
+frozen_backbone,2,10.5,0.0,0.0
+frozen_backbone,3,10.5,0.0,0.0

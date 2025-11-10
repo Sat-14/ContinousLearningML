@@ -1,0 +1,28 @@
+{
+  "demo": {
+    "Strategy": [
+      "naive",
+      "naive",
+      "naive",
+      "frozen_backbone",
+      "frozen_backbone",
+      "frozen_backbone"
+    ],
+    "Task": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "Accuracy": [
+      7.5,
+      12.0,
+      12.833333333333334,
+      11.5,
+      10.5,
+      10.5
+    ]
+  }
+}
